@@ -1,0 +1,38 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": ""
+    },
+    "database": {
+        "name": "",
+        "host": "",
+        "auth": {
+            "username": "",
+            "password": ""
+        }
+    },
+    "botlists": {
+        "botsfordiscord": "",
+        "discordbotlist": "",
+        "botlist.space": ""
+    },
+    "accounts": {
+        "ubisoft": {
+            "username": "",
+            "password": ""
+        },
+        "activision": {
+            "username": "",
+            "password": ""
+        },
+        "riot": ""
+    },
+    "games": {
+        "csgo": "",
+        "pubg": ""
+    },
+    "webhook": {
+        "botsfordiscord": "",
+        "discordbotlist": ""
+    }
+}

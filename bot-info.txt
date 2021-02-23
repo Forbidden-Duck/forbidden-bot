@@ -1,0 +1,2 @@
+339364228794155029
+https://discord.com/oauth2/authorize?client_id=339364228794155029&scope=bot&permissions=67464264
